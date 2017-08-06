@@ -1,0 +1,63 @@
+What are the 5 most common sources of web application attack?
+
+1. SQL Injection
+2. Cross-Site Scripting
+3. Sensitive Data Exposure
+4. Security Misconfiguration
+5. Cross-Site Request Forgery
+
+----------------------
+
+What are the 5 most common types of damage done from an attack?
+
+1. Malware
+2. SQL Injection
+3. Phishing
+4. XSS
+5. DoS
+
+---------------------
+
+What operating systems have the most CVEs logged against them?
+
+Google Android
+Debian & Ubuntu Linux
+
+----------------------
+
+What web frameworks have the most CVEs?
+
+EmberJS
+Ruby on Rails
+
+----------------------------
+
+What were the highest damage cyber crimes in 2017? 2016? What technologies were compromised, and what methods were used?
+
+2017:
+
+Ethereum Hack. Hackers hijacked cryptocurrency trading platform CoinDash. hacked CoinDash's website and changed the address for sending investments to a fake one
+
+A US nuclear facility was breached in a cyberattack. It was done using malware.
+url: http://www.businessinsider.com/nuclear-power-plant-breached-cyberattack-2017-6
+
+Peyta - GoldenEye is a ransomware, which has hit systems in more than 65 countries, including large firms such as advertising agency WPP, food company Mondelez, Spanish legal firm DLA Piper and more.
+url: https://www.entrepreneur.com/slideshow/290673#4
+
+2016:
+
+FBI hacked terrorist's iPhone 5c -  hired hackers to break into the phone of one of the San Bernardino shooters
+
+url: http://www.zdnet.com/pictures/biggest-hacks-security-data-breaches-2016/2/
+
+Linux Mint Hack - Peace was "just poking around" the site in January when they found a vulnerability granting unauthorized access.(Using login credentials). replaced one of the 64-bit Linux distribution images (ISO) with one that was modified by adding a backdoor, and later decided to "replace all mirrors" for every downloadable version of Linux on the site with a modified version of their own.
+
+url: http://www.zdnet.com/article/hacker-hundreds-were-tricked-into-installing-linux-mint-backdoor/
+
+---------------------------------------------------
+
+How many companies are compromised from technical vulnerabilities vs. phishing or social engineering?
+
+About 50%
+
+url: https://www.symantec.com/content/dam/symantec/docs/reports/istr-21-2016-en.pdf
